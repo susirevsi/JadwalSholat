@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">padding</dimen>
+    <dimen name="vertical_margin">vertical_margin</dimen>
+    <dimen name="left_width">left_width</dimen>
+</resources>
